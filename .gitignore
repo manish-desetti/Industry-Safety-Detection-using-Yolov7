@@ -5,7 +5,7 @@ __pycache__/
 safety
 # C extensions
 *.so
-
+artifacts
 # Distribution / packaging
 .Python
 build/
